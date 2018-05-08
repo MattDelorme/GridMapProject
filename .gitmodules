@@ -1,0 +1,6 @@
+[submodule "Assets/Source/GridMap"]
+	path = Assets/Source/GridMap
+	url = https://github.com/MattDelorme/GridMap
+[submodule "Assets/Source/Shared"]
+	path = Assets/Source/Shared
+	url = https://github.com/MattDelorme/Shared
